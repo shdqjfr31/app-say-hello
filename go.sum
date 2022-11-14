@@ -1,2 +1,6 @@
 github.com/shdqjfr31/say-hello-modules v1.0.0 h1:8Up+20RF9pfQY5oL5b3rJp632MW5N+rKfalKEogZB4E=
 github.com/shdqjfr31/say-hello-modules v1.0.0/go.mod h1:/4AmBCotO/0/mnYXwzcn2/o/5t/KmZ4TFbF+1gf4XPo=
+github.com/shdqjfr31/say-hello-modules v1.5.0 h1:scfqQRkGmXkaPZgXuVpacLO+cnsvu59JzsigneQB36M=
+github.com/shdqjfr31/say-hello-modules v1.5.0/go.mod h1:/4AmBCotO/0/mnYXwzcn2/o/5t/KmZ4TFbF+1gf4XPo=
+github.com/shdqjfr31/say-hello-modules/v2 v2.0.1 h1:SWErKO9OLem8XSMFTCtkidV0ACocljLcZ+oD4r1lcpw=
+github.com/shdqjfr31/say-hello-modules/v2 v2.0.1/go.mod h1:/cOHlmAVQKFs1969leF8A4y/7jHxucNg7vu0QYz3pII=
